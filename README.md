@@ -1,2 +1,2 @@
-# Gabrielportifolio.github.io/
+# Gabrielportifolio.github.io
 Portfolio faculdade
